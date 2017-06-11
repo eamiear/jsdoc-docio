@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-docio",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A friendly blue theme for JSDoc.",
   "main": "template/publish.js",
   "scripts": {

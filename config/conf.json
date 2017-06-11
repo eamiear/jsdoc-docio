@@ -20,7 +20,7 @@
     },
     "systemName"      : "Docio",
     "footer"          : "",
-    "copyright"       : "Copyright © 2017 <a href='#' target='_self'>docio.</a>",
+    "copyright"       : "Copyright © 2017 <a href='https://github.com/eamiear/jsdoc-docio' target='_blank'>docio.</a>",
     "navType"         : "vertical",
     "theme"           : "docio",
     "includeDate"     : false,
