@@ -1,0 +1,35 @@
+{
+  "name": "jsdoc-docio",
+  "version": "1.0.0",
+  "description": "A friendly blue theme for JSDoc.",
+  "main": "template/publish.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "moment": "^2.14.1",
+    "sanitize-html": "^1.13.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jsdoc": "^0.5.7",
+    "jsdoc": "^3.3.0-alpha9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamiear/jsdoc-docio.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "template",
+    "theme",
+    "javascript",
+    "docio"
+  ],
+  "author": "eamiear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eamiear/jsdoc-docio/issues"
+  },
+  "homepage": "https://github.com/eamiear/jsdoc-docio#readme"
+}

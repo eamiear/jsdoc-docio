@@ -1,0 +1,16 @@
+{
+  "name": "jsdoc-docio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eamiear/jsdoc-docio",
+  "authors": [
+    "eamiear <eamiear@163.com>"
+  ],
+  "description": "A friendly blue JSDoc template theme.",
+  "main": "template/publish.js",
+  "keywords": [
+    "jsdoc",
+    "template"
+  ],
+  "license": "MIT",
+  "private": true
+}
